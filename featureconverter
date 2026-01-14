@@ -1,0 +1,22 @@
+[
+  { "code": "USD", "name": "US Dollar", "symbol": "$", "rate": 1.0 },
+  { "code": "EUR", "name": "Euro", "symbol": "€", "rate": 0.858 },
+  { "code": "GBP", "name": "British Pound", "symbol": "£", "rate": 0.742 },
+  { "code": "TZS", "name": "Tanzanian Shilling", "symbol": "TSh", "rate": 2515.0 },
+  { "code": "KES", "name": "Kenyan Shilling", "symbol": "KSh", "rate": 156.5 },
+  { "code": "UGX", "name": "Ugandan Shilling", "symbol": "USh", "rate": 3810.0 },
+  { "code": "ZAR", "name": "South African Rand", "symbol": "R", "rate": 19.17 },
+  { "code": "NGN", "name": "Nigerian Naira", "symbol": "₦", "rate": 1465.0 },
+  { "code": "GHS", "name": "Ghanaian Cedi", "symbol": "GH₵", "rate": 12.45 },
+  { "code": "RWF", "name": "Rwandan Franc", "symbol": "RF", "rate": 1285.0 },
+  { "code": "EGP", "name": "Egyptian Pound", "symbol": "E£", "rate": 48.25 },
+  { "code": "MAD", "name": "Moroccan Dirham", "symbol": "DH", "rate": 10.15 },
+  { "code": "AED", "name": "UAE Dirham", "symbol": "د.إ", "rate": 3.67 },
+  { "code": "SAR", "name": "Saudi Riyal", "symbol": "ر.س", "rate": 3.75 },
+  { "code": "INR", "name": "Indian Rupee", "symbol": "₹", "rate": 90.15 },
+  { "code": "CNY", "name": "Chinese Yuan", "symbol": "¥", "rate": 7.18 },
+  { "code": "JPY", "name": "Japanese Yen", "symbol": "¥", "rate": 158.5 },
+  { "code": "AUD", "name": "Australian Dollar", "symbol": "A$", "rate": 1.49 },
+  { "code": "CAD", "name": "Canadian Dollar", "symbol": "C$", "rate": 1.39 },
+  { "code": "BRL", "name": "Brazilian Real", "symbol": "R$", "rate": 5.39 }
+]
