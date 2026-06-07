@@ -2,7 +2,7 @@
   { "code": "USD", "name": "US Dollar", "symbol": "$", "rate": 1.0 },
   { "code": "EUR", "name": "Euro", "symbol": "€", "rate": 0.858 },
   { "code": "GBP", "name": "British Pound", "symbol": "£", "rate": 0.742 },
-  { "code": "TZS", "name": "Tanzanian Shilling", "symbol": "TSh", "rate": 2515.0 },
+  { "code": "TZS", "name": "Tanzanian Shilling", "symbol": "TSh", "rate": 2627.0 },
   { "code": "KES", "name": "Kenyan Shilling", "symbol": "KSh", "rate": 156.5 },
   { "code": "UGX", "name": "Ugandan Shilling", "symbol": "USh", "rate": 3810.0 },
   { "code": "ZAR", "name": "South African Rand", "symbol": "R", "rate": 19.17 },
